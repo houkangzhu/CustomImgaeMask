@@ -1,5 +1,5 @@
 # CustomImgaeMask
-一些功能(自定义layer mask, Bezier曲线,轨迹动画, 人脸识别, 二维码等)...
+一些功能(自定义layer mask, Bezier曲线,轨迹动画, 人脸识别, 二维码,视频滤镜等)...
 
 **1.自定义maskLayer**
 

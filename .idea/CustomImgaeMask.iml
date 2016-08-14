@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CIDR_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Resources/lookup_soft_elegance_1.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Resources/lookup_miss_etikate.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Resources/lookup_soft_elegance_2.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Resources/lookup_amatorka.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Resources/lookup.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageMissEtikateFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageFilterPipeline.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageMissEtikateFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageExclusionBlendFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageFilterPipeline.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImagePerlinNoiseFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageExclusionBlendFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageiOSBlurFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageDilationFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImagePerlinNoiseFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageRawDataOutput.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageDilationFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageNonMaximumSuppressionFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageDirectionalNonMaximumSuppressionFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageDirectionalNonMaximumSuppressionFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageRGBFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageGammaFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GLProgram.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageColorDodgeBlendFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSharpenFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageCannyEdgeDetectionFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GLProgram.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageFASTCornerDetectionFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSharpenFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageColorDodgeBlendFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageLuminosity.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageHistogramGenerator.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageGaussianSelectiveBlurFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageLuminosity.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageGaussianSelectiveBlurFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImage3x3ConvolutionFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageAmatorkaFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageFASTCornerDetectionFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageHarrisCornerDetectionFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageAmatorkaFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageLineGenerator.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageHarrisCornerDetectionFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSolidColorGenerator.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageLineGenerator.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSolidColorGenerator.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageWeakPixelInclusionFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageAverageLuminanceThresholdFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageKuwaharaRadius3Filter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageKuwaharaRadius3Filter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageMovieComposition.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageMotionBlurFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageColorBurnBlendFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageNobleCornerDetectionFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSaturationBlendFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageLuminanceThresholdFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImagePolarPixellateFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageOpacityFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageLuminanceThresholdFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImagePolarPixellateFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSourceOverBlendFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageOpacityFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSaturationBlendFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageHistogramFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSourceOverBlendFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSoftEleganceFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageOverlayBlendFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSoftEleganceFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageRGBErosionFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageDarkenBlendFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSaturationFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageRGBOpeningFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageRGBErosionFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSaturationFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageRGBClosingFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageHazeFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageMonochromeFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImagePrewittEdgeDetectionFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageMonochromeFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageNonMaximumSuppressionFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageChromaKeyBlendFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageLuminanceRangeFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageChromaKeyBlendFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageLuminanceRangeFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageContrastFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageXYDerivativeFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageHighPassFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageAverageLuminanceThresholdFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageWhiteBalanceFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageGrayscaleFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageFalseColorFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageLinearBurnBlendFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageFalseColorFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageVideoCamera.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageColorMatrixFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageLinearBurnBlendFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImagePolkaDotFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSubtractBlendFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSubtractBlendFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageKuwaharaFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageHardLightBlendFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSoftLightBlendFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageUIElement.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageFramebuffer.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageGlassSphereFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageBoxBlurFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageThresholdSketchFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageGammaFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageBoxBlurFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageAddBlendFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSepiaFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageAddBlendFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageBuffer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSepiaFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageTextureInput.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageHighPassFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSoftLightBlendFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageTextureInput.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSobelEdgeDetectionFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImagePoissonBlendFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageColorPackingFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageTwoInputFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageGaussianBlurPositionFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImagePoissonBlendFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageOverlayBlendFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageGaussianBlurPositionFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageTextureOutput.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageOutput.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageOutput.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageFilterGroup.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageHueFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageLowPassFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageVideoCamera.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageHueFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageLowPassFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageHazeFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageUIElement.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageBilateralFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageAverageColor.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageColorInvertFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageBilateralFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageAverageColor.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageColorInvertFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageDirectionalSobelEdgeDetectionFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageStillCamera.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageOpeningFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageContrastFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageDirectionalSobelEdgeDetectionFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageTwoInputFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSwirlFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageParallelCoordinateLineTransformFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageLaplacianFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageScreenBlendFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageHSBFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageLaplacianFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageScreenBlendFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImage3x3ConvolutionFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageVignetteFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImagePolkaDotFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageVignetteFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageKuwaharaFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageHueBlendFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageHistogramFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageBulgeDistortionFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImagePrewittEdgeDetectionFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageBulgeDistortionFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageMosaicFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImagePinchDistortionFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageMosaicFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImagePinchDistortionFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageGaussianBlurFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageBrightnessFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageRGBFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageErosionFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageBrightnessFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageToonFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageThresholdedNonMaximumSuppressionFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageParallelCoordinateLineTransformFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageJFAVoronoiFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageToonFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageDivideBlendFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageDivideBlendFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageEmbossFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageExposureFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageEmbossFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageCannyEdgeDetectionFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSmoothToonFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageWeakPixelInclusionFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageiOSBlurFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageLanczosResamplingFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageLanczosResamplingFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageMovieComposition.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageChromaKeyFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageNormalBlendFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageJFAVoronoiFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageChromaKeyFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageErosionFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageLocalBinaryPatternFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageAdaptiveThresholdFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageFramebufferCache.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageClosingFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageLocalBinaryPatternFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageVoronoiConsumerFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageMultiplyBlendFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageFramebufferCache.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageClosingFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageNobleCornerDetectionFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageMultiplyBlendFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageMaskFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSwirlFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageFilterGroup.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageTwoPassFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageDarkenBlendFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageTwoPassFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageBuffer.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageTwoPassTextureSamplingFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageMotionDetector.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageThresholdedNonMaximumSuppressionFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageTwoPassTextureSamplingFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageMotionDetector.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageColorBlendFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageMedianFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSphereRefractionFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageUnsharpMaskFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageColorBlendFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSphereRefractionFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageHalftoneFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageUnsharpMaskFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageHalftoneFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImagePixellateFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageFramebuffer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImagePixellateFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageCrosshatchFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageStretchDistortionFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageColorBurnBlendFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageStretchDistortionFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageHSBFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageRGBDilationFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageRGBDilationFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageCGAColorspaceFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImage3x3TextureSamplingFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageCGAColorspaceFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageWhiteBalanceFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImage3x3TextureSamplingFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageMotionBlurFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageNormalBlendFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSketchFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageTextureOutput.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageAdaptiveThresholdFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSketchFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageRGBClosingFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageMedianFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageThreeInputFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageColorPackingFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageLuminosityBlendFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageThreeInputFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSmoothToonFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageLuminosityBlendFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageRawDataInput.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImage.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageRawDataInput.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/iOS/GPUImageMovieWriter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/iOS/GPUImageContext.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/iOS/GPUImageView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/iOS/GPUImagePicture.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/iOS/GPUImageContext.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/iOS/GPUImageMovieWriter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/iOS/Framework/GPUImageFramework.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/iOS/GPUImagePicture+TextureSubimage.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/iOS/GPUImagePicture.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/iOS/GPUImagePicture+TextureSubimage.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/iOS/GPUImageView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageThresholdEdgeDetectionFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageRawDataOutput.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageHueBlendFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImagePosterizeFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageLevelsFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageXYDerivativeFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageGaussianBlurFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImagePosterizeFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageLevelsFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageCrosshatchFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageAlphaBlendFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageMaskFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageZoomBlurFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageRGBOpeningFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageAlphaBlendFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageZoomBlurFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageThresholdEdgeDetectionFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageDifferenceBlendFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageCropFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageDifferenceBlendFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageCropFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImagePixellatePositionFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSobelEdgeDetectionFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImagePixellatePositionFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageCrosshairGenerator.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageColorMatrixFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageGrayscaleFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageVoronoiConsumerFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageMovie.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSingleComponentGaussianBlurFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageToneCurveFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageHighlightShadowFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageSingleComponentGaussianBlurFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageHistogramEqualizationFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageToneCurveFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageHighlightShadowFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageHistogramEqualizationFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageMovie.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageLookupFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageShiTomasiFeatureDetectionFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageLookupFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageShiTomasiFeatureDetectionFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageTwoInputCrossTextureSamplingFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageTiltShiftFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageTwoInputCrossTextureSamplingFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageTiltShiftFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageHardLightBlendFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageCrosshairGenerator.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageOpeningFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageStillCamera.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageExposureFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageLightenBlendFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageTransformFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageHoughTransformLineDetector.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageLightenBlendFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageHistogramGenerator.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageTransformFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageHoughTransformLineDetector.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageDissolveBlendFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageGlassSphereFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageThresholdSketchFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/GPUImage/framework/Source/GPUImageDissolveBlendFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/GPUImage/GPUImage-prefix.pch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/GPUImage/GPUImage.xcconfig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/GPUImage/GPUImage-dummy.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-CustomImgaeMask/Pods-CustomImgaeMask-acknowledgements.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-CustomImgaeMask/Pods-CustomImgaeMask-acknowledgements.markdown" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-CustomImgaeMask/Pods-CustomImgaeMask-frameworks.sh" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-CustomImgaeMask/Pods-CustomImgaeMask.release.xcconfig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-CustomImgaeMask/Pods-CustomImgaeMask-dummy.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-CustomImgaeMask/Pods-CustomImgaeMask-resources.sh" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-CustomImgaeMask/Pods-CustomImgaeMask.debug.xcconfig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/AppDelegate.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/FiveViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/AppDelegate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/main.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/CTMView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/CTMView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/MainViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/MainViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/SixViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/SevenViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/TWOViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/Shader.glsl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/PrefixHeader.pch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/TWOViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/GPUImageBeautifyFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/FiveViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/GPUImageBeautifyFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/ForViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/image_1.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/ForViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/Base.lproj/LaunchScreen.storyboard" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/Base.lproj/Main.storyboard" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/GPUMyCustomFilter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/GPUMyCustomFilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/SixViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/THREEViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/ViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/THREEViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/ViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/Assets.xcassets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/SevenViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CustomImgaeMask/meinv.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Podfile" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/DTPerformanceSession.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HealthKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PassKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreAudioKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MultipeerConnectivity.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AssetsLibrary.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WatchConnectivity.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreVideo.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/StoreKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SceneKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/OpenGLES.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CFNetwork.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vImage.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/EventKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WatchKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GSS.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AudioUnit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreSpotlight.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/LocalAuthentication.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HealthKitUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Metal.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/VideoToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Contacts.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/QuickLook.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SafariServices.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameplayKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WebKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CloudKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreImage.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/EventKitUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Photos.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MetalPerformanceShaders.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVFoundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/JavaScriptCore.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PushKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreTelephony.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreText.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ReplayKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SpriteKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Twitter.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NetworkExtension.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreAudio.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreData.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Foundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MapKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ContactsUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMedia.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaAccessibility.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ExternalAccessory.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Security.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ModelIO.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GLKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MetalKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HomeKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameController.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreBluetooth.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AdSupport.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMIDI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Social.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accounts.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/OpenAL.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NotificationCenter.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ImageIO.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PhotosUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AddressBook.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NewsstandKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MessageUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreLocation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/QuartzCore.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/iAd.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMotion.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/7.3.0/include" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/DTPerformanceSession.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HealthKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PassKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreAudioKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MultipeerConnectivity.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AssetsLibrary.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WatchConnectivity.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreVideo.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/StoreKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SceneKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/OpenGLES.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CFNetwork.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vImage.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/EventKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WatchKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GSS.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AudioUnit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreSpotlight.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/LocalAuthentication.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HealthKitUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Metal.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/VideoToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Contacts.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/QuickLook.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SafariServices.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameplayKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WebKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CloudKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreImage.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/EventKitUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Photos.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MetalPerformanceShaders.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVFoundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/JavaScriptCore.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PushKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreTelephony.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreText.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ReplayKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SpriteKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Twitter.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NetworkExtension.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreAudio.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreData.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Foundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MapKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ContactsUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMedia.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaAccessibility.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ExternalAccessory.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Security.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ModelIO.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GLKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MetalKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HomeKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameController.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreBluetooth.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AdSupport.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMIDI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Social.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accounts.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/OpenAL.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NotificationCenter.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ImageIO.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PhotosUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AddressBook.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NewsstandKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MessageUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreLocation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/QuartzCore.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/iAd.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMotion.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/7.3.0/include" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

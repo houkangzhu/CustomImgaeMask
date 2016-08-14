@@ -23,7 +23,7 @@
 
 **6.人脸识别**
 
-![人脸识别](https://github.com/houkangzhu/CustomImgaeMask/blob/master/Screenshot/face.gif?raw=true)
+![人脸识别](https://github.com/houkangzhu/CustomImgaeMask/blob/master/Screenshot/face_s.gif?raw=true)
 
 **7.GPUImage的全部滤镜**
 
